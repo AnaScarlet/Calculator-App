@@ -1,3 +1,35 @@
 <resources>
     <string name="app_name">Calc_LAZARENKO</string>
+    <string name="zero">0</string>
+    <string name="format_zero">%s0</string>
+    <string name="one">1</string>
+    <string name="format_one">%s1</string>
+    <string name="two">2</string>
+    <string name="format_two">%s2</string>
+    <string name="three">3</string>
+    <string name="format_three">%s3</string>
+    <string name="four">4</string>
+    <string name="format_four">%s4</string>
+    <string name="five">5</string>
+    <string name="format_five">%s5</string>
+    <string name="six">6</string>
+    <string name="format_six">%s6</string>
+    <string name="seven">7</string>
+    <string name="format_seven">%s7</string>
+    <string name="eight">8</string>
+    <string name="format_eight">%s8</string>
+    <string name="nine">9</string>
+    <string name="format_nine">%s9</string>
+    <string name="dot">.</string>
+    <string name="format_dot_before">%s.</string>
+    <string name="clr">clear</string>
+    <string name="div">/</string>
+    <string name="format_div">%s/</string>
+    <string name="mul">*</string>
+    <string name="format_mul">%s*</string>
+    <string name="add">+</string>
+    <string name="format_add">%s+</string>
+    <string name="sub">-</string>
+    <string name="format_sub">%s-</string>
+    <string name="eq">=</string>
 </resources>
