@@ -5,4 +5,5 @@
     <color name="colorAccent">#FF4081</color>
     <color name="light_btn">#c589e3</color>
     <color name="color_primary_dark">#a352cb</color>
+    <color name="light_background">#f2dcfd</color>
 </resources>
